@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm PapopCTCK</h1>
+<h1 align="center">Hi 👋, I'm [PapopCTCK](https://papopctck.cc/)</h1>
 <h3 align="center">A clueless frontend developer from Bangkok, Thailand</h3>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=papopctck&theme=dark" alt="papopctck" /></p>
@@ -7,13 +7,13 @@
 
 ---
   
-- 🔭 I’m currently working on [CARBONCAL](https://www.gideon-one.com/products/carbon-cal)
+- 🔭 I’m currently working on [THINKER-CORE](https://www.blockfint.com/)
 
 - 🌱 I’m currently learning **Even more about frontend!**
 
 - 💬 Ask me about **react and anything frontend**
 
-- 📫 How to reach me **dpprachaya@gmail.com**
+- 📫 How to reach me https://papopctck.cc/
 
 ---
 
